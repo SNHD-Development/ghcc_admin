@@ -8,7 +8,7 @@
 
 > No need to configure for SPA. Simply type `npm install` and make page components. And, be sure to have links of those pages in the `router.js` file and in the `HeaderBar.vue` if necessary.
 
-## Start
+## Get Started
 
 ``` bash
 $ vue init snhd-development/ghcc_admin ghccapp_admin1
