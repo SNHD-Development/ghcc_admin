@@ -13,6 +13,7 @@ import HeaderBar from './components/HeaderBar';
 
 export default {
   name: 'app',
+  store,
   components: {
     Hello,
     HeaderBar
