@@ -64,3 +64,9 @@ If port 8080 is already in use on your machine you must change the port number i
 
 - We don't necessarily need to use Karma, Nightwatch or e2e. All of the GHCC Vue Admin apps do not use them. You are prompted for them in case you really feel like using them because you need them.
 - All of the GHCC Vue Admin projects use Runtime-only on prompt.
+
+## Suggested modules
+
+- vue2-medium-editor : for Markdown editor
+- medium-editor-autolist : to have ordered and unordered list with medium-editor.
+- vue-flatpickr : for a pop-up calendar that can be customizable. Please refer to the `hp_admin*` project to see the dependencies, requirements and how to customize. Feel free to look at the [Flatpickr](https://chmln.github.io/flatpickr/) documentation. Some features might not be in `vue-flatpickr`.
